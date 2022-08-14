@@ -1,0 +1,164 @@
+c:\users\nathenial\documents\visual studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.exe.config
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.exe
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.pdb
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.MainForm.resources
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Properties.Resources.resources
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.GenerateResource.Cache
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.exe
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.pdb
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Employer.resources
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.EmployerModule.resources
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Setting.resources
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ManagerVehicleType.resources
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ManageCostofGoodSold.resources
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Customer.resources
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CustomerModule.resources
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Service.resources
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ServiceModule.resources
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Cash.resources
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CashCustomer.resources
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.SettlePayment.resources
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CashService.resources
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Antlr3.Runtime.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.OData.Core.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.Spatial.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\System.Web.Http.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\System.Web.OData.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\System.Web.Optimization.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\WebGrease.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.OData.Core.xml
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.Spatial.xml
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\System.Web.Http.xml
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\System.Web.OData.xml
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\System.Web.Optimization.xml
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\de\Microsoft.OData.Core.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\es\Microsoft.OData.Core.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\fr\Microsoft.OData.Core.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\it\Microsoft.OData.Core.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ja\Microsoft.OData.Core.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ko\Microsoft.OData.Core.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ru\Microsoft.OData.Core.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\de\Microsoft.OData.Edm.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\es\Microsoft.OData.Edm.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\fr\Microsoft.OData.Edm.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\it\Microsoft.OData.Edm.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ja\Microsoft.OData.Edm.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ko\Microsoft.OData.Edm.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ru\Microsoft.OData.Edm.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\de\Microsoft.Spatial.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\es\Microsoft.Spatial.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\fr\Microsoft.Spatial.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\it\Microsoft.Spatial.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ja\Microsoft.Spatial.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ko\Microsoft.Spatial.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ru\Microsoft.Spatial.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Login.resources
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Load.resources
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.dashboard.resources
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Getbackpassword.resources
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.passwordretrieval.resources
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.CopyComplete
+C:\Users\Nathenial\Documents\Visual Studio 2013\Projects\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.receipt.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.AssemblyReference.cache
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Cash.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CashCustomer.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Customer.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CustomerModule.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.dashboard.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Employer.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.EmployerModule.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Getbackpassword.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Load.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Login.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.MainForm.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ManageCostofGoodSold.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ManagerVehicleType.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.passwordretrieval.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Properties.Resources.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Service.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.ServiceModule.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Setting.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.SettlePayment.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.GenerateResource.cache
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.CoreCompileInputs.cache
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.exe.config
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.exe
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\CarWashManagementSystem.pdb
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Antlr3.Runtime.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.OData.Core.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.OData.Edm.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.Spatial.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Newtonsoft.Json.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\System.Net.Http.Formatting.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\System.Web.Http.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\System.Web.OData.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\System.Web.Optimization.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\WebGrease.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Antlr3.Runtime.pdb
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.OData.Core.xml
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.OData.Edm.xml
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Microsoft.Spatial.xml
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\Newtonsoft.Json.xml
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\System.Net.Http.Formatting.xml
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\System.Web.Http.xml
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\System.Web.OData.xml
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\System.Web.Optimization.xml
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\de\Microsoft.OData.Core.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\es\Microsoft.OData.Core.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\fr\Microsoft.OData.Core.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\it\Microsoft.OData.Core.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ja\Microsoft.OData.Core.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ko\Microsoft.OData.Core.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ru\Microsoft.OData.Core.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-Hans\Microsoft.OData.Core.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-Hant\Microsoft.OData.Core.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\de\Microsoft.OData.Edm.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\es\Microsoft.OData.Edm.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\fr\Microsoft.OData.Edm.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\it\Microsoft.OData.Edm.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ja\Microsoft.OData.Edm.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ko\Microsoft.OData.Edm.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ru\Microsoft.OData.Edm.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-Hans\Microsoft.OData.Edm.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-Hant\Microsoft.OData.Edm.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\de\Microsoft.Spatial.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\es\Microsoft.Spatial.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\fr\Microsoft.Spatial.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\it\Microsoft.Spatial.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ja\Microsoft.Spatial.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ko\Microsoft.Spatial.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\ru\Microsoft.Spatial.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-Hans\Microsoft.Spatial.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\bin\Debug\zh-Hant\Microsoft.Spatial.resources.dll
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.csproj.CopyComplete
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.exe
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.pdb
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.CashService.resources
+D:\C#\CarWashManagementSystem\CarWashManagementSystem\obj\Debug\CarWashManagementSystem.Report.resources
